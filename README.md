@@ -1,5 +1,3 @@
-<h1 align="center">🙂 학생 백엔드 개발자 정우혁 입니다. 🙂 </h1>
-
 <div align=center> <h3>  📚 Stacks  </h3></div>
 
 <div align=center> 
